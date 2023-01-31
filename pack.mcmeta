@@ -1,0 +1,16 @@
+{
+    "pack": {
+        "pack_format": 9,
+        "description": [
+            {
+                "text": "Ankou Flight\n",
+                "color": "#a8e64c"
+            },
+            {
+                "text": "Version 0.1 - MC 1.18.2",
+                "color": "#909090"
+            }
+        ]
+    }
+}
+  
